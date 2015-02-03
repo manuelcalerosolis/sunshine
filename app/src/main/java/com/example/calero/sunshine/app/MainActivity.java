@@ -74,7 +74,7 @@ public class MainActivity extends ActionBarActivity {
                     "Weds - Cloudy - 72/63",
                     "Thus - Asteroid - 75/65",
                     "Fri - Heavy Rain - 65/56",
-                    "Sat - HELP TRAPPED IN WHEATHERSTATION - 60/50"
+                    "Sat - HELP TRAPPED IN WHEATHERSTATION - 60/51"
             };
 
             List<String> weekForecast = new ArrayList<>(
